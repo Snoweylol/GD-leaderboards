@@ -1,2 +1,2 @@
 # GD-leaderboards
-A leaderboard over Geometry Dash players.
+Leaderboards over Geometry Dash statistics.
