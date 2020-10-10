@@ -1,0 +1,73 @@
+.title-button {
+	font-family: sans-serif;
+	position: absolute;
+	left: 15px;
+	top: 15px;
+	height: 40px;
+	width: 150px;
+	background-color: rgba(153, 153, 153, 1);
+	font-weight: bold;
+	color: white;
+}
+.title-button:hover {
+	background-color: rgba(191, 191, 191, 1);
+}
+
+
+.players-button {
+	font-family: sans-serif;
+	position: absolute;
+	left: 180px;
+	top: 15px;
+	height: 40px;
+	width: 150px;
+	background-color: rgba(153, 153, 153, 1);
+	font-weight: bold;
+	color: white;
+}
+.players-button:hover {
+	background-color: rgba(191, 191, 191, 1);
+}
+
+
+.flag-button {
+	font-family: sans-serif;
+	position: absolute;
+	left: 345px;
+	top: 15px;
+	height: 40px;
+	width: 150px;
+	background-color: rgba(153, 153, 153, 1);
+	font-weight: bold;
+	color: white;
+}
+.flag-button:hover {
+	background-color: rgba(191, 191, 191, 1);
+}
+
+
+.header {
+	padding: 27px;
+	background-color: rgba(217, 217, 217, 0.5);
+}
+
+.head-text-players {
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.head-text-creator {
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.mainTextMain {
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
